@@ -1,4 +1,4 @@
 openmrs-module-filipule
 =======================
 
-Test module for OpenMRS
+Simple test module for OpenMRS
